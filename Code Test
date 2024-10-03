@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenue sur mon site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .container {
+            padding: 20px;
+            text-align: justify;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        h1 {
+            color: #2C3E50;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenue sur mon site</h1>
+    </header>
+
+    <div class="container">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et sapien nec nunc vehicula sodales. Vivamus auctor nisi quis magna efficitur, vel facilisis nunc vehicula. Donec a sollicitudin risus. Phasellus sit amet odio nisi. Nulla at sem vitae risus interdum suscipit. Mauris ac velit a lectus auctor feugiat ac et arcu. Curabitur pharetra leo quis dolor consectetur, ut condimentum elit vulputate. Nulla facilisi. Sed auctor mauris ut risus cursus, at tincidunt eros aliquam.
+        </p>
+    </div>
+
+    <footer>
+        <p>Mentions légales : ce site est fictif et créé à titre d'exemple. © 2024 MonSite.</p>
+    </footer>
+
+</body>
+</html>
